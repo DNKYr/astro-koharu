@@ -9,8 +9,10 @@ tags:
   - CSS
   - Tailwind
 categories:
-  - [笔记, 前端]
+  - - 笔记
+    - 前端
 cover: /img/cover/3.webp
+draft: true
 ---
 
 本文介绍如何定制 astro-koharu 的外观和样式。
