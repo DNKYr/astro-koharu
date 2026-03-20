@@ -35,3 +35,10 @@ pnpm-debug.log*
 
 # Backup files
 backups/
+
+# Obsidians
+.obsidian
+.trash
+
+# Direnv
+.direnv
